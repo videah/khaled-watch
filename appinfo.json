@@ -1,0 +1,24 @@
+{
+  "uuid": "ef11ca0f-6f34-4e00-97e6-3007bfe326f0",
+  "shortName": "khaled-watch",
+  "longName": "DJ Khaled",
+  "companyName": "VideahGams",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt", "chalk"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "KHALED",
+        "file": "images/khaled.png"
+      }
+    ]
+  }
+}
